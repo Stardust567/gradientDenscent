@@ -1,1 +1,1 @@
-# gradientDenscent
+# gradientDescent
